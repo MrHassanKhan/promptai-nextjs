@@ -14,7 +14,8 @@
 
 # production
 /build
-
+.history
+.vscode
 # misc
 .DS_Store
 *.pem
